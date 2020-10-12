@@ -1,0 +1,10 @@
+Copy and paste the links used to collect the datasets
+1) https://www.kaggle.com/toddsteussie/nfl-play-statistics-dataset-2004-to-present?select=draft.csv
+
+
+Copy and paste the links you referenced while writing the code for data collection
+and cleaning.
+1) https://stackoverflow.com/questions/36069531/trying-to-import-csv-into-mysql-with-pymysql-and-python-version-3 pymysql help importing csvs to a database
+2) https://www.mydatahack.com/how-to-bulk-load-data-into-mysql-with-python/ loading data into a sql dataset 
+3) https://www.mysqltutorial.org/mysql-data-types.aspx/ looking at sql datatypes for my database
+4) https://o7planning.org/en/11463/connecting-mysql-database-in-python-using-pymysql pymysql help with creating database

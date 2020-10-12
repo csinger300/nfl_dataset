@@ -1,0 +1,22 @@
+Enter any modules or libraries that you downloaded for the anaylsis below
+1) https://www.kaggle.com/toddsteussie/nfl-play-statistics-dataset-2004-to-present?select=draft.csv
+2) I used matplotlib and seaborn for my visuals
+
+Clearly explain how to execute the your data_analysis.py file below
+Running with pymysql: (you must use this to run the visuals and summary files- but you can run any queries from the functions with mysql)
+1) in the main() method, in the line that says cursor = create_cursor('localhost', 'root', '', 'nfldata'), put your personal mysql password in the empty string (and replace root with whatever your personal username is if it is not root)
+2) uncomment any of the methods in the main() method that you would like to run
+2) in your command prompt, navigate to the directory with the data_analysis.py file
+3) run the python file with the command: 'python data_analysis.py' and it will print out all of the functions!
+4) Note: if you run the python file with multiple visuals called (or the summary files and a visual), you must exit out of the visual in order to keep the program running. Once you exit the first visual, the second will pop up, and so on!
+5) Running the summary functions will not print anything, but if you go to your data analysis folder they should be saved there once it has run.
+
+Running queries with mysql: (I quite like this method to print the queries as the data prints in a much more organized table)
+1) in the main() method, in the line that says cursor = create_cursor('localhost', 'root', '', 'nfldata'), put your personal mysql password in the empty string (and replace root with whatever your personal username is if it is not root)
+2) in the command prompt, navigate to the directory with the nfldata.sql file
+3) type into the command line: mysql -u root -p < nfldata.sql (or replace root with whatever your personal username is)
+4) type in your password
+5) type: mysql -u root -p (or whatever your personal username is)
+6) type in your password once more
+7) now that you are in the MySQL monitor, you can individually enter each query into the command line to get the tables
+8) the queries you are pasting are the statements within the variables of each method named "query", "query1", and "query2"

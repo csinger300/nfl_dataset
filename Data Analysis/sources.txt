@@ -1,0 +1,11 @@
+Copy and paste the links you referenced while writing the code for the analysis
+1) https://www.si.com/nfl/2020/04/23/draft-schools-with-most-first-round-picks roughly checking my stats with nfl data
+2) https://stackoverflow.com/questions/12235595/find-most-frequent-value-in-sql-column finding the most frequent value in a dataset column
+3) https://matplotlib.org/gallery/lines_bars_and_markers/barh.html#sphx-glr-gallery-lines-bars-and-markers-barh-py general matplotlib example
+4) https://matplotlib.org/api/pyplot_api.html general documentation to make a graph
+5) https://seaborn.pydata.org/examples/color_palettes.html looking at basic seaborn and different palettes
+6) https://pythonbasics.org/matplotlib-line-chart/ creating 2 lines for a line chart
+7) https://www.nfl.com/news/2018-nfl-draft-order-for-all-seven-rounds-0ap3000000919673 roughtly checking my stats with nfl data
+8) https://matplotlib.org/tutorials/intermediate/legend_guide.html making a legend for visual 3
+9) https://stackoverflow.com/questions/13515471/matplotlib-how-to-prevent-x-axis-labels-from-overlapping-each-other/14436101 my x axis labels were overlapping
+10) https://peoplesoftwiki.com/books/database/page/conditional-counting-in-sql#:~:text=Counting%20I...-,Conditional%20Counting%20In%20SQL,the%20case%20and%20count%20functions. for conditional count statement I made
